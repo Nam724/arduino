@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/nam/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/nam/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/variants/standard"
+  },
+  {
+    "Sourcefile": "/Volumes/Nam/arduino/.\\build/sketch/sketch_oct14a.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

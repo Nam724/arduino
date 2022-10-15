@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "/Users/nam/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/nam/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Volumes/Nam/arduino/sketch_oct14a/sketch_oct14a.ino"
+}

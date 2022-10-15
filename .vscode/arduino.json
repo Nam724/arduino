@@ -1,6 +1,6 @@
 {
-    "sketch": "app.ino",
+    "sketch": "sketch_oct14a/sketch_oct14a.ino",
     "board": "arduino:avr:uno",
-    "port": "COM3",
+    "port": "/dev/tty.usbserial-1410",
     "output": ".\\build"
 }
